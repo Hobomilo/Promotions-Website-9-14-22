@@ -12,9 +12,9 @@ CS10 Assignment
 
 ---
 
-### Picture of a Pickle.com
+# Picture of a Pickle.com
 
-# To do list
+### To do list
 - [ ] picture of a pickle
 
 - [ ] condiments

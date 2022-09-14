@@ -32,5 +32,5 @@ CS10 Assignment
 
 ---
 
-#THE ONE PIECE...
-#THE ONE PIECE IS REAL!!
+# THE ONE PIECE...
+# THE ONE PIECE IS REAL!!

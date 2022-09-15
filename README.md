@@ -12,7 +12,8 @@ CS10 Assignment
 
 ---
 
-# Picture of a Pickle.com
+# PictureOfaPickle.com
+A website for pickle enjoyers
 
 ### To do list
 - [ ] picture of a pickle
@@ -30,7 +31,8 @@ CS10 Assignment
 - [ ] different pickles(?)
  - gherkins
 
+- [ ] change the colour of the pickle
+
 ---
 
-# THE ONE PIECE...
-# THE ONE PIECE IS REAL!!
+# About The Author

@@ -2,7 +2,8 @@
 CS10 Assignment
 
 # Reminders
-- TBD
+- T.O.P.T.O.P.I.R.
+- I.I.G.L.A.
 
 ---
 

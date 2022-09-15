@@ -17,23 +17,35 @@ CS10 Assignment
 A website for pickle enjoyers
 
 ### Feature checklist (To Do)
-- [ ] picture of a pickle
 
-- [ ] condiments
- - Ketchup, Mustard, Relish
-
-- [ ] perhaps a hat or two
- - Top hat def
- - American top hat
-
+## The Pickle
 - [ ] pickle from different angles
  - maybe even upside down
 
-- [ ] different pickles(?)
+- [ ] different pickles
  - gherkins
 
 - [ ] change the colour of the pickle
 
+## Accesories
+
+- [ ] Hat
+ - Top hat
+ - American top hat
+
+- [ ] condiments
+ - Ketchup, Mustard, Relish
+
+- [ ] glasses
+ - sunglasses
+ - nerd glasses
+
+- [ ] clothes
+ - hotdog bun
+ ## U.I.
+- [ ] picture of a pickle
+
+- [ ] text for customization
 ---
 
 # About The Author

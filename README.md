@@ -4,7 +4,7 @@ CS10 Assignment
 # Reminders
 - T.O.P.T.O.P.I.R.
 - I.I.G.L.A.
-
+- C.W.G.M.H.
 ---
 
 - [ ] this is a check box

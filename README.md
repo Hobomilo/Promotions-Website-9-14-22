@@ -4,7 +4,7 @@ CS10 Assignment
 # Reminders
 - T.O.P.T.O.P.I.R.
 - I.I.G.L.A.
-
+- C.W.G.M.H.
 ---
 
 - [ ] this is a check box
@@ -49,4 +49,3 @@ A website for pickle enjoyers
 ---
 
 # About The Author
-Hello! My name is Alex and I am an aspiring developer. My hobbies include videogames and chess, my favourite colour is blue, and my favourite place to eat is Pho 39.

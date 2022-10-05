@@ -27,6 +27,9 @@ A website for pickle enjoyers
 
 - [ ] change the colour of the pickle
 
+- [ ] picture of a pickle
+
+- [ ] text for customization
 ## Accesories
 
 - [ ] Hat
@@ -42,10 +45,7 @@ A website for pickle enjoyers
 
 - [ ] clothes
  - hotdog bun
- ## U.I.
-- [ ] picture of a pickle
-
-- [ ] text for customization
+ 
 ---
 
 # About The Author

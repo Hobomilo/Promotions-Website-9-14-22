@@ -25,6 +25,15 @@
 
         <noscript>JavaScript is not necessary here</noscript>
 
+        <style>
+            .dropdown {
+
+            }
+            .dropdown-content {
+                overflow: auto;
+                box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,2);
+            }
+        </style>
     </head>
     
     <body>
@@ -36,11 +45,27 @@
             <img src="https://forsythwoman.com/wp-content/uploads/2018/06/FW110-Pickles.jpeg" alt="pickle">
         </section>
         <h1>The Pickle But...</h1>
-        <nav> 
-          <p> <a href="\\FS-052\studuser$\Gr10\a.reid21\My Documents\GitHub\Promotions-Website-9-14-22\Pickle\With a hat" target="_blank">With a hat...</p> </a>
-          <p> <a href="\\FS-052\studuser$\Gr10\a.reid21\My Documents\GitHub\Promotions-Website-9-14-22\Pickle\But its" target="_blank">The pickle is...</p> </a>
-          <p>Holding a...</p>
-        </nav>
+        <p>It's<label for="attributes"></label>
+        <select name="attributes" id="attributes" class="dropdown-content">
+            <option value="purple">Purple</option>
+            <option value="orange">Orange</option>
+        </select></p>
+
+        <p>And it's wearing a<label for="clothing">Select an Option</label>
+        <select name="clothing" id="clothing">
+            <option value="tophat">Top Hat</option>
+        </select></p>
+        
+        <button onclick="myFunction()">
+        click me
+        </button>
+
+        <script>
+            function myFunction() {
+                document.getElementById("attributes").selectedIndex=2
+            }
+        </script>
+        <nav></nav>
         <article></article>
         <footer></footer>
     </body>

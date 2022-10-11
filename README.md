@@ -30,7 +30,7 @@ A website for pickle enjoyers
 - [ ] picture of a pickle
 
 - [ ] text for customization
-## Accesories
+## Accessories
 
 - [ ] Hat
  - Top hat

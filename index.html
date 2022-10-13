@@ -33,10 +33,18 @@
                 overflow: auto;
                 box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,2);
             }
+            .pickle {
+                filter: hue-rotate(20deg);
+            }
             .orange {
                 filter: hue-rotate(335deg);
             }
         </style>
+        <script>
+            function changeClass() {
+                document.getElementById('').className = ""
+            }
+        </script>
     </head>
     
     <body>
@@ -45,13 +53,14 @@
         <aside></aside>
         <main></main>
         <section>
-            <img src="https://forsythwoman.com/wp-content/uploads/2018/06/FW110-Pickles.jpeg" alt="pickle" class="orange">
+            <img src="https://forsythwoman.com/wp-content/uploads/2018/06/FW110-Pickles.jpeg" alt="pickle" class="pickle" style="width: 50%; height:auto">
         </section>
         <h1>The Pickle But...</h1>
         <p>It's<label for="attributes" class="dropdown"></label>
         <select name="attributes" id="attributes" class="dropdown-content">
+            <option value="pickle">Green</option>
             <option value="purple">Purple</option>
-            <option value="orange">Orange</option>
+            <option value="orange" onclick="">Orange</option>
         </select></p>
 
         <p>And it's wearing a<label for="clothing"></label>
@@ -65,7 +74,7 @@
 
         <script>
             function myFunction() {
-                document.getElementById("attributes").selectedIndex=2
+                document.getElementById("attributes").
             }
         </script>
         <nav></nav>
